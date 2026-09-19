@@ -131,13 +131,10 @@ The repository documents my progression through structured problem solving, func
 ## 📊 GitHub analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Belchi0r&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belchi0r&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://raw.githubusercontent.com/Belchi0r/Belchi0r/main/profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="https://raw.githubusercontent.com/Belchi0r/Belchi0r/main/profile/top-langs.svg" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Belchi0r&bg_color=1a1b27&color=70a5fd&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
-</p>
 
 <br/>
 
@@ -145,9 +142,9 @@ The repository documents my progression through structured problem solving, func
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Belchi0r/Belchi0r/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Belchi0r/Belchi0r/output/github-contribution-grid-snake.svg">
-    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/Belchi0r/Belchi0r/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Belchi0r/Belchi0r/gh-pages/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Belchi0r/Belchi0r/gh-pages/github-contribution-grid-snake.svg">
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/Belchi0r/Belchi0r/gh-pages/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
